@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "target": "esnext",
+    "module": "commonjs",
+    "declaration": false,
+    "sourceMap": true,
+    "outDir": "./dist",
+    "removeComments": true,
+    // "baseUrl": "./", /* Currently unsupported by Yarn 2 */
+    "importHelpers": true,
+    "downlevelIteration": true,
+    "isolatedModules": false,
+    "strict": true,
+    "jsx": "react",
+    "tsBuildInfoFile": "./tsbuildinfo.ignore",
+    "alwaysStrict": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}

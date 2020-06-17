@@ -1,0 +1,20 @@
+{
+  "name": "yarnberry-seed",
+  "version": "1.0.0",
+  "description": "The starter for all Yarnberry recipes!",
+  "repository": "https://github.com/Yarnberry-Cookbook/yarnberry-seed.git",
+  "author": "Grim <silencegrim@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "yarn tsc",
+    "start": "yarn node ./dist/file-example.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^14.0.13",
+    "@yarnpkg/pnpify": "^2.0.0-rc.25",
+    "tslib": "^2.0.0",
+    "typescript": "^3.9.5"
+  }
+}
