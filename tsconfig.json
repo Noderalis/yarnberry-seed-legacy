@@ -13,7 +13,6 @@
     "downlevelIteration": true,
     "isolatedModules": false,
     "strict": true,
-    "tsBuildInfoFile": "./tsbuildinfo.ignore",
     "alwaysStrict": true,
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
