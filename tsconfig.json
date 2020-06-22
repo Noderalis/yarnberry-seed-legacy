@@ -8,11 +8,11 @@
     "outDir": "./dist",
     "removeComments": true,
     // "baseUrl": "./", /* Currently unsupported by Yarn 2 */
+    "rootDir": "./src",
     "importHelpers": true,
     "downlevelIteration": true,
     "isolatedModules": false,
     "strict": true,
-    "jsx": "react",
     "tsBuildInfoFile": "./tsbuildinfo.ignore",
     "alwaysStrict": true,
     "moduleResolution": "node",
