@@ -2,6 +2,8 @@
 
 The starter for all Yarnberry recipes!
 
+This README is the orginal draft of my article, [Getting started with Yarn 2 and TypeScript](https://medium.com/swlh/getting-started-with-yarn-2-and-typescript-43321a3acdee).
+
 ## What is a _**Yarnberry**_?
 
 Berry is the name of the 2.0 release of Yarn, which completely changes how Yarn functions as a whole, with limited support and templates for Yarn 2, I created the Yarnberry Cookbook to home every recipe I came up with.
